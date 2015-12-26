@@ -1,0 +1,28 @@
+name: thirdfloordesign
+favicon: null
+layout_spectrum: 0.5358091664966196
+typography_spectrum: 0.7880611224099994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.28607842698693275
+  lightness: 0.6093287486582994
+  saturation: 0.07384456461295485
+  rhythmicContrast: 0.3985145129263401
+purpose: []
